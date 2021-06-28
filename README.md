@@ -2,7 +2,7 @@
 - 👀 I’m interested in conding, data and martial arts
 - 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on anything python
-- 📫 How to reach me naoufal.rhioui@gmail.com
+- 📫 How to reach me naoufal.rhioui@hotmail.fr
 
 <!---
 Naoufal-Rhioui/Naoufal-Rhioui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
